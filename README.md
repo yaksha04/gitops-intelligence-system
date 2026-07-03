@@ -363,12 +363,6 @@ This project showcases practical experience in:
 
 ---
 
-# 📄 Resume Description
-
-Built an AI-powered GitOps platform with ML deployment risk prediction (87% accuracy), automated LLM code review via Gemini API, and real-time Streamlit dashboard. Integrated GitHub Actions CI/CD pipeline with automated risk gates and intelligent deployment analytics.
-
----
-
 # ⭐ Support
 
 If you found this project interesting, give it a ⭐ on GitHub and feel free to contribute or fork the repository.
